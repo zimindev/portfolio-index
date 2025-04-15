@@ -1,8 +1,9 @@
 # Portfolio Index
 
-**Central Hub** for my professional portfolio projects. This repository serves as the main entry point to my work across different technologies and platforms.
+**Central Hub** for my professional portfolio projects. 
+This repository serves as the main entry point to my work across different technologies and platforms.
 
-🔗 **[Live Demo](#)** *(Add your live link here)*  
+🔗 **[Live Demo](https://zimin.dev/portfolio** *Wattch portfolio on my website*  
 
 ---
 
