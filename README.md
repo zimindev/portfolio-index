@@ -60,4 +60,4 @@ Let's connect!
 ---
 
 📄 **License**: [MIT](LICENSE)  
-© 2024 [Your Name] | Built with ❤️
+Sasha Zimin | Built with ❤️
