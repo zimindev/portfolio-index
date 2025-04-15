@@ -1,6 +1,5 @@
 Here’s an updated `README.md` that highlights your multi-repo portfolio structure with links to your specialized repositories:
 
-```markdown
 # Portfolio Index
 
 **Central Hub** for my professional portfolio projects. This repository serves as the main entry point to my work across different technologies and platforms.
