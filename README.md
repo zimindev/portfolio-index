@@ -10,7 +10,7 @@
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| **[portfolio-frontend](https://github.com/zimindev/portfolio-frontend)** | Modern frontend projects | React, Vue, Tailwind |
+| **[portfolio-frontend](https://github.com/zimindev/portfolio-frontend)** | Modern frontend projects | HTML, CSS, JS, React, Vue |
 | **[portfolio-backend](https://github.com/zimindev/portfolio-backend)** | API/services development | Node.js, Python, SQL |
 | **[portfolio-wp](https://github.com/zimindev/portfolio-wp)** | WordPress customizations | PHP, WordPress |
 | **[portfolio-woo](https://github.com/zimindev/portfolio-woo)** | WooCommerce solutions | WooCommerce, JavaScript |
