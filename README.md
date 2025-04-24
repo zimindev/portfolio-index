@@ -2,11 +2,6 @@
 
 This is my portfolio index repository, which showcases my projects, skills, and experience. In this repository, you will find links to my various portfolios, including front-end, back-end, WordPress, WooCommerce, and web design projects.
 
-## 📑 Table of Contents
-
-1. 🚀 [Projects](#projects)  
-2. 📬 [Contact](#contact)  
-
 ## 🚀 Projects
 
 Here are some of my best projects:
@@ -26,10 +21,6 @@ Here are some of my best projects:
 - 🎨 [**Web Design Portfolio**](https://github.com/zimindev/portfolio-webdesign)  
   A collection of web design projects, including layouts, user interfaces, and design concepts.
 
-
-## 📬 Contact
-
-- 📧 **Email:** [hello@zimin.dev](mailto:hello@zimin.dev)  
 ---
 
 Thanks for visiting my portfolio index. Feel free to reach out for collaboration or questions! 🌟
