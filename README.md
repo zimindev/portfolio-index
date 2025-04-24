@@ -4,18 +4,8 @@ This is my portfolio index repository, which showcases my projects, skills, and 
 
 ## 📑 Table of Contents
 
-1. 🛠️ [Skills](#skills)  
-2. 🚀 [Projects](#projects)  
-3. 📬 [Contact](#contact)  
-
-## 🛠️ Skills
-
-- **Web Development:** HTML5, CSS3, JavaScript, React, Vue, Bootstrap  
-- **CMS:** WordPress, WooCommerce  
-- **Automation:** Ansible, Bash, GitHub Actions  
-- **DevOps:** Linux, Nginx, Docker  
-- **Databases:** MySQL, PostgreSQL  
-- **Other:** REST API, Firebase, GraphQL  
+1. 🚀 [Projects](#projects)  
+2. 📬 [Contact](#contact)  
 
 ## 🚀 Projects
 
