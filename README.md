@@ -18,7 +18,7 @@ Here are some of my best projects:
 - 🛒 [**WooCommerce Portfolio**](https://github.com/zimindev/portfolio-woocommerce)  
   A collection of WooCommerce projects, including eCommerce websites and customization.
 
-- 🎨 [**Web Design Portfolio**](https://github.com/zimindev/portfolio-webdesign)  
+- 🎨 [**Web Design Portfolio**](https://github.com/zimindev/portfolio-design)  
   A collection of web design projects, including layouts, user interfaces, and design concepts.
 
 ---
